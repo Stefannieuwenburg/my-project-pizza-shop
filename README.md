@@ -13,5 +13,6 @@ Google Fonts: [https://fonts.google.com/]
 Tailwind: [https://tailwindcss.com/]
 
 # run
-
 npm run dev
+
+Funny stuff !! not ready jet !!
